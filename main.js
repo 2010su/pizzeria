@@ -1,0 +1,1 @@
+menu_list_array=["chicken tandoori pizza","veg supreme pizza","paneer tikka pizza","delux veggie pizza"]
